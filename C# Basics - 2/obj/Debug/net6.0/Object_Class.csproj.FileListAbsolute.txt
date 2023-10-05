@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Object_Class\bin\Debug\net6.0\Object_Class.exe
+C:\Users\DELL\source\repos\Object_Class\bin\Debug\net6.0\Object_Class.deps.json
+C:\Users\DELL\source\repos\Object_Class\bin\Debug\net6.0\Object_Class.runtimeconfig.json
+C:\Users\DELL\source\repos\Object_Class\bin\Debug\net6.0\Object_Class.dll
+C:\Users\DELL\source\repos\Object_Class\bin\Debug\net6.0\Object_Class.pdb
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.dll
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\refint\Object_Class.dll
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.pdb
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\Object_Class.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Object_Class\obj\Debug\net6.0\ref\Object_Class.dll
