@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\C# Advance\bin\Debug\C# exception handling.exe.config
+C:\Users\DELL\source\repos\C# Advance\bin\Debug\C# exception handling.exe
+C:\Users\DELL\source\repos\C# Advance\bin\Debug\C# exception handling.pdb
+C:\Users\DELL\source\repos\C# Advance\obj\Debug\C# exception handling.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\C# Advance\obj\Debug\C# exception handling.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C# Advance\obj\Debug\C# exception handling.exe
+C:\Users\DELL\source\repos\C# Advance\obj\Debug\C# exception handling.pdb
